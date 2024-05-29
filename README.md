@@ -6,6 +6,15 @@ Bộ dữ liệu được sử dụng cho nhiệm vụ phân loại này là b�
 
 ### Bộ Dữ Liệu
 Bộ dữ liệu chứa các đặc điểm mô tả đặc tính vật lý của nấm.
+- cap-diameter: Đường kính mũ nấm
+- cap-shape: Hình dạng mũ nấm
+- gill-attachment: Vị trí bám của mang nấm
+- gill-color: Màu sắc của mang nấm
+- stem-height: Chiều cao của thân nấm
+- stem-width: Chiều rộng của thân nấm
+- stem-color: Màu sắc của thân nấm
+- season: Mùa nấm mọc
+- class: Loại nấm ( Ăn được hoặc có độc)
 
 Mỗi mẫu nấm được gán nhãn là ăn được hoặc độc.
 
